@@ -1,0 +1,25 @@
+{
+  "name": "sp-module-weather",
+  "version": "1.0.0",
+  "description": "TicMallorca Weather Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ticmallorca/sp-module-weather.git"
+  },
+  "keywords": [
+    "widget",
+    "service",
+    "platform",
+    "openweathermap"
+  ],
+  "author": "Alejandro Villen Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ticmallorca/sp-module-weather/issues"
+  },
+  "homepage": "https://github.com/ticmallorca/sp-module-weather#readme"
+}

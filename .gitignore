@@ -1,0 +1,18 @@
+## Logs
+*.log
+
+## Package lock
+package-lock.json
+
+## Dependencies directories
+node_modules/
+
+## Environment variables
+.env
+.dev.env
+.pro.env
+
+## dist
+dist/*
+!dist/.gitkeep
+

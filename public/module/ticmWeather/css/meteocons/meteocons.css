@@ -1,0 +1,13 @@
+.block {
+    display: block;
+    width: 100%;
+}
+.font-large-1 {
+    font-size: 2rem!important;
+}
+.font-medium-4 {
+    font-size: 1.4rem!important;
+}
+.bg-blue.bg-lighten-4, .btn-blue.btn-lighten-4 {
+    background-color: #BBDEFB!important;
+}

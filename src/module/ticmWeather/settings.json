@@ -1,0 +1,32 @@
+{
+	"name": "ticmWeather",
+	"version": "1.0.0",
+	"link": "/",
+	"settings": {},
+	"language": {
+		"en": {},
+		"ca": {},
+		"es": {}
+	},
+	"component": {
+		"dashboardInfo": {
+			"name": "dashboardInfo",
+			"section": "info",
+			"dependencies": {
+				"css": [
+					"/module/ticmWeather/css/meteocons/meteocons.css",
+					"/module/ticmWeather/css/meteocons/style.min.css"
+				],
+				"javascript": [
+					"/module/ticmWeather/js/dashboardInfo/dashboardInfo.js",
+					"/module/ticmWeather/js/dashboardInfo/view.js",
+					"/module/ticmWeather/js/dashboardInfo/controller.js"
+				]
+			}
+		}
+	},
+	"dependencies": {
+		"css": [],
+		"javascript": []
+	}
+}
